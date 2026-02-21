@@ -3,7 +3,7 @@
 <!-- ============================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Krishita%20Vaghani&fontSize=50&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&animation=fadeIn&desc=Computer%20Science%20%7C%20Applied%20Mathematics%20%7C%20Quantum%20Computing&descAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Krishita%20Vaghani&fontSize=55&fontColor=ffffff&animation=fadeIn&color=0:ff4ecd,50:4f9cff,100:7a3cff&desc=Computer%20Science%20%7C%20Applied%20Mathematics%20%7C%20Quantum%20Computing&descAlignY=70"/>
 </p>
 
 <p align="center">
@@ -59,8 +59,6 @@ Verified campus marketplace + lost & found platform for MSU.
 </p>
 
 ---
-
-## 📈 GitHub Activity
 
 ## 📈 GitHub Activity
 
