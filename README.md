@@ -46,3 +46,19 @@ research_focus:
   - Quantum Optimization
   - AI Infrastructure
 location: Upper Montclair, NJ
+
+🚀 Featured Projects
+
+🧠 Quantum Surface Code Visualizer — Built quantum error visualization using neutral atom hardware (QuEra).
+
+🔥 Wildfire Risk Minimization (Quantum) — Graph coloring via MIS using D-Wave, Pulser & QAOA.
+
+🎙️ Screenz.ai Interview Platform — Production ML + GenAI system powering AI-based interview workflows.
+
+🏫 UniFind — Verified campus marketplace + lost & found system for MSU community.
+
+</td> <td valign="top" width="45%">
+🧩 Tech Stack
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="38"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="38"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38"/> </p>
+📈 GitHub Activity
+<p align="center"> <img height="155" src="https://github-readme-stats.vercel.app/api?username=Krishita22&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight" /> <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishita22&layout=compact&hide_border=true&theme=tokyonight" /> </p> </td> </tr> </table> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" /> </p>
