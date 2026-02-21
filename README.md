@@ -3,7 +3,7 @@
 <!-- ============================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Krishita%20Vaghani&fontSize=55&fontColor=ffffff&animation=fadeIn&color=0:ff4ecd,50:4f9cff,100:7a3cff&desc=Computer%20Science%20%7C%20Applied%20Mathematics%20%7C%20Quantum%20Computing&descAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Krishita%20Vaghani&fontSize=65&fontColor=ffffff&animation=fadeIn&color=0:ff4ecd,50:4f9cff,100:7a3cff&desc=Computer%20Science%20%7C%20Applied%20Mathematics%20%7C%20Quantum%20Computing&descAlignY=75"/>
 </p>
 
 <p align="center">
@@ -14,8 +14,7 @@
 
 ## ⚡ About
 
-- 🎓 **B.S. Computer Science**, Minor in Mathematics  
-- 📊 **GPA:** 3.898 | Honors Program | Dean’s List  
+- 🎓 **B.S. Computer Science**, Minor in Mathematics | Honors Program | Dean’s List  
 - 💼 **IT Supervisor** @ Montclair State University  
 - 🤖 **Full-Stack / ML Intern** @ Screenz.ai  
 - 👩‍💻 President @ Honors EDGE  
