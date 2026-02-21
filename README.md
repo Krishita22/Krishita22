@@ -62,9 +62,10 @@ Verified campus marketplace + lost & found platform for MSU.
 
 ## 📈 GitHub Activity
 
+## 📈 GitHub Activity
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Krishita22&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishita22&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishita22&theme=tokyonight" />
 </p>
 
 ---
