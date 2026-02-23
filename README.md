@@ -80,9 +80,13 @@ Verified campus marketplace + lost & found platform for MSU.
     <img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://krishitavaghani.com/">
-    <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:302b63&height=100&section=footer"/>
 </p>
+
