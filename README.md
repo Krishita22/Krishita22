@@ -10,6 +10,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=400&center=true&vCenter=true&width=850&lines=IT+Supervisor+%40+Montclair+State+University;Full-Stack+%2F+Machine+Learning+Intern+%40+Screenz.ai;1st+Place+MIT+iQuHACK+2026;Building+AI%2C+Quantum+%26+Systems+Infrastructure" />
 </p>
 
+
+
+## 📫 Connect With Me
+
+📧 **Email:** [krishitavaghani@gmail.com](mailto:krishitavaghani@gmail.com)  
+🔗 **LinkedIn:** https://www.linkedin.com/in/krishita  
+🌐 **Portfolio:** https://krishitavaghani.com/
+
 ---
 
 ## ⚡ About
