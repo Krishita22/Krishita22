@@ -10,14 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=400&center=true&vCenter=true&width=850&lines=IT+Supervisor+%40+Montclair+State+University;Full-Stack+%2F+Machine+Learning+Intern+%40+Screenz.ai;1st+Place+MIT+iQuHACK+2026;Building+AI%2C+Quantum+%26+Systems+Infrastructure" />
 </p>
 
-
-
-## 📫 Connect With Me
-
-- 📧 [Email](mailto:krishitavaghani@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/krishita-vaghani/)
-- 🌐 [krishitavaghani.com](https://krishitavaghani.com/)
-
 ---
 
 ## ⚡ About
@@ -87,10 +79,10 @@ Verified campus marketplace + lost & found platform for MSU.
   <a href="https://github.com/Krishita22">
     <img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://krishitavaghani.com/">
+    <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:302b63&height=100&section=footer"/>
 </p>
