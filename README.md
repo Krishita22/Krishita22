@@ -14,9 +14,9 @@
 
 ## 📫 Connect With Me
 
-📧 **Email:** [krishitavaghani@gmail.com](mailto:krishitavaghani@gmail.com)  
-🔗 **LinkedIn:** https://www.linkedin.com/in/krishita  
-🌐 **Portfolio:** https://krishitavaghani.com/
+- 📧 [Email](mailto:krishitavaghani@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/krishita)
+- 🌐 [Portfolio](https://krishitavaghani.com/)
 
 ---
 
